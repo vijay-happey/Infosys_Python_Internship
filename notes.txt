@@ -1,0 +1,32 @@
+Module 1: Data Preprocessing & EDA
+- Download and preprocess air quality datasets (CPCB, Open AQ).
+- Conduct EDA to understand pollutant trends and correlations.
+- Resample data and prepare features for forecasting.
+
+
+Project: Air Aware (Smart Air Quality Prediction System)
+- We are predicting future Air Quality using Python programming.
+- Using various libraries and frameworks.
+
+Libraries:
+- A library is a set of pre-written functions that we can use and modify.
+- We will use pandas and numpy.
+
+Frameworks:
+- A framework is a reusable, structured set of pre-written code and guidelines 
+  that provides a foundation for developers to build software applications more efficiently.
+
+Datasets:
+- We are going to use CSV files (from Kaggle).
+- CSV = Comma Separated Values file.
+
+Tools:
+- OpenAI
+- Kaggle Environment
+- Data Split, Train AI, Logic to train AI for prediction
+- matplotlib for visualization
+
+Dashboard:
+- We are building a dashboard showing every data point.
+- It will explain: What is good air? What is bad air?
+- Include error handling.
